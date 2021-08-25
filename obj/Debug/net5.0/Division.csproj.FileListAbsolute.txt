@@ -1,0 +1,16 @@
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\bin\Debug\net5.0\Division.exe
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\bin\Debug\net5.0\Division.deps.json
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\bin\Debug\net5.0\Division.runtimeconfig.json
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\bin\Debug\net5.0\Division.runtimeconfig.dev.json
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\bin\Debug\net5.0\Division.dll
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\bin\Debug\net5.0\ref\Division.dll
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\bin\Debug\net5.0\Division.pdb
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\obj\Debug\net5.0\Division.csprojAssemblyReference.cache
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\obj\Debug\net5.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\obj\Debug\net5.0\Division.AssemblyInfoInputs.cache
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\obj\Debug\net5.0\Division.AssemblyInfo.cs
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\obj\Debug\net5.0\Division.csproj.CoreCompileInputs.cache
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\obj\Debug\net5.0\Division.dll
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\obj\Debug\net5.0\ref\Division.dll
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\obj\Debug\net5.0\Division.pdb
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Division\obj\Debug\net5.0\Division.genruntimeconfig.cache
